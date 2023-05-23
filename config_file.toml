@@ -1,17 +1,18 @@
-baseURL = 'http://buhooro.netlify.app/'
-languageCode = 'en-us'
-title = 'Buhooro Wellness Retreat'
-theme = "bh"
+baseURL = "https://stcg.ntlify.app"
+languageCode = "en-us"
+title = "St John's Community Garden"
+theme = "stjohn"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Buhooro Wellness Retreat {year}."
+copyright = "St John's Walton - Community Garden {year}."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   expiryDate = ["expiryDate"]
   lastmod = [":git", "lastmod", "date", "publishDate"]
   publishDate = ["publishDate", "date"]
+
 
 [module]
     [[module.mounts]]
@@ -25,31 +26,26 @@ copyright = "Buhooro Wellness Retreat {year}."
   
   [menu]
     [[menu.main]]
-    identifier = "visit"
-    name = "Visit"
-    url = "/visit/"
+    identifier = "works"
+    name = "Works"
+    url = "/works/"
     weight = 20
-
+    
     [[menu.main]]
-    identifier = "stay"
-    name = "Stay"
-    url = "/stay/"
+    identifier = "plants"
+    name = "Plants"
+    url = "/plants/"
     weight = 30
 
     [[menu.main]]
-    identifier = "wildlife"
-    name = "Wildlife"
-    url = "/wildlife/"
+    identifier = "animals"
+    name = "Animals"
+    url = "/animals/"
     weight = 40
 
     [[menu.main]]
-    identifier = "video"
-    name = "Videography"
-    url = "/video/"
-    weight = 50
+    identifier = "old"
+    name = "Old"
+    url = "/old/"
+    weight = 40
 
-    [[menu.main]]
-    identifier = "gallery"
-    name = "Gallery"
-    url = "/gallery/"
-    weight = 60

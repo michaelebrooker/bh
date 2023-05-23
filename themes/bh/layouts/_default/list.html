@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container py-3"> <!-- py-3 p = padding, y = top & bottom, 3 spacer value -->
+  <!-- <div class="row row-cols-1 row-cols-md-2 gx-8"> -->
+  <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
+     {{ range .Pages.ByDate}}
+     <div class="col">
+       <div class="card mt-2">
+         <div class="card-body">
+            <img class="card-img-top" src="{{ .Page.Params.image }}" alt="{{ .Page.Params.image_alt }}">
+            <p class="card-text">{{ .Page.Params.summary }}</p>
+            <a href="{{ .Permalink }}" class="btn btn-outline-primary">More ...</a>
+        </div>
+       </div>
+     </div>
+    {{ end }}
+   </div>
+</div>
+{{ end }}
+

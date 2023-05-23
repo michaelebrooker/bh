@@ -1,0 +1,126 @@
+// custom styles for Buhooro Wellness Retreat 2023
+// Author: Mike Brooker
+// Revision: 0  
+
+
+// using Bootstrap 5.3 May 2023
+
+
+$bgcolor: white;
+$hdcolor: #222222; // BLACK
+$hddcolor: #444444; // DARK GREY
+$bncolor: #033a1f; // DARK GREEN
+$bodycolor: #033A1F; //
+$hccolor: #91b4dd;//
+$logolight: #247a47;// 
+$logodar: #00A189; // Mid-green
+$h4color: #555555;// MID GREY
+$cdcolor: #eeeeee;// VERY LIGHT GREY
+$border_color: #blue; // 
+
+// Colours for Buhooro
+$logo-green: #00A189;
+$logo-blue: #0060AB;
+$flag-blue: #7ECBE8;
+$flag-green: #9FD0AE;
+$flag-grey: #BAD4DC;
+
+// sticky footer style
+main > .container {
+  padding: 60px 15px 0;
+}
+
+// card body styles
+.card-body {
+background-color: $cdcolor;
+color: $bodycolor;
+}
+
+body {
+  background-color: $bgcolor;
+  font-family: 'Verdana', sans-serif;
+  font-size: medium;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: "Gill Sans", Helvetic, sans-serif;
+
+  font-style: normal;
+  font-weight: normal;
+  color: $hddcolor; 
+}
+
+h2 {
+  font-family: "Gill Sans", Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color:$hdcolor; }
+
+h3 {
+  font-family: "Gill Sans", Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color:$hdcolor; }
+
+  h4 {
+    font-family: "Gill Sans", Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color:$hdcolor; 
+  }
+// splash image
+.bigBrandDark {
+  font-family: "Gill Sans", Helvetica, sans-serif;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: 600;
+  color: $logo-green;
+}
+
+.bigBrandLight {
+  font-family: 'Pacifico', cursive;
+  font-size: 3.20em;
+  color: $flag-blue;
+}
+
+.footerBrand {
+  color: $logolight;
+  font-size: 1rem;
+}
+
+.nav-link {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: x-large;
+}
+blockquote {
+  border: 1px solid $border_color;
+  border-left: 10px solid $hdcolor;
+  border-radius: 0px;
+  background: $hddcolor;
+  font-size: 18px;
+  color: $hccolor;
+  margin: 10px;
+  padding: 10px 20px;
+  }
+
+
+
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    background-color: var(--bs-light);
+    border-radius: .3rem;  
+}
+
+section {
+    margin: auto;
+    padding-top: 10px;
+}
+divsectionleft {
+    float: left;
+    margin-right: 10px;
+}
+div#sectionright {
+    margin: auto;
+}
+    
