@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Buhooro Wellness, Retreat Wakiso, nr Entebbe, Uganda</title>
-    <link>http://buhooro.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Buhooro Wellness, Retreat Wakiso, nr Entebbe, Uganda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Buhooro Wellness Retreat, Wakiso, Uganda {year}.</copyright>
     <lastBuildDate>Sat, 11 Jan 2025 17:10:26 +0100</lastBuildDate>
-    <atom:link href="http://buhooro.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stay</title>
-      <link>http://buhooro.netlify.app/stay/</link>
+      <link>http://localhost:1313/stay/</link>
       <pubDate>Mon, 06 Jan 2025 17:10:26 +0100</pubDate>
-      <guid>http://buhooro.netlify.app/stay/</guid>
+      <guid>http://localhost:1313/stay/</guid>
       <description>&lt;h2 id=&#34;your-stay-at-buhooro&#34;&gt;Your stay at Buhooro&lt;/h2&gt;&#xA;&lt;p&gt;There are five staff permanently on site, and &lt;strong&gt;Alfred&lt;/strong&gt; our guard keeps the place secure, with &lt;strong&gt;Nama&lt;/strong&gt; running the house and supervising guests. All our staff and friendly and welcoming.&lt;/p&gt;&#xA; &lt;img src=&#39;./images/living-area.jpg/&#39; class=&#34;img-fluid shadow-sm p-3 mb-5 bg-body-tertiary rounded&#34; alt=&#39;The open plan living area.&#39;&gt;&#xA;&#xA;&lt;p&gt;The main part of the bungalow is open plan with kitchen-dining area and lounge combined, and the French windows look out over &lt;strong&gt;Lake Victoria&lt;/strong&gt;. You can sit and take tea with the daily on-shore breeze cooling either in the lounge or on the verandah.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gallery</title>
-      <link>http://buhooro.netlify.app/gallery/</link>
+      <link>http://localhost:1313/gallery/</link>
       <pubDate>Fri, 10 Jan 2025 10:17:05 +0000</pubDate>
-      <guid>http://buhooro.netlify.app/gallery/</guid>
+      <guid>http://localhost:1313/gallery/</guid>
       <description>&lt;h2 id=&#34;the-relaxing-beauty-of-buhooro&#34;&gt;The relaxing beauty of Buhooro&lt;/h2&gt;&#xA; &lt;img src=&#39;./images/sunrise-fishermen.jpg/&#39; class=&#34;img-fluid shadow-sm p-3 mb-5 bg-body-tertiary rounded&#34; alt=&#39;Fishermen head out on to the Lake&#39;&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Above:&lt;/strong&gt; Fishermen head out on to the Lake.&lt;/p&gt;&#xA; &lt;img src=&#39;./images/waters.jpg/&#39; class=&#34;img-fluid shadow-sm p-3 mb-5 bg-body-tertiary rounded&#34; alt=&#39;The beach with natural sand.&#39;&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Above:&lt;/strong&gt; the beach with its naturally-occuring sand with a small rocky island just off the shore.&lt;/p&gt;&#xA; &lt;img src=&#39;./images/verandah_evening.jpg/&#39; class=&#34;img-fluid shadow-sm p-3 mb-5 bg-body-tertiary rounded&#34; alt=&#39;The Verandah which looks out of Lake Victoria&#39;&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Above and below:&lt;/strong&gt; The Verandah with spectacular views of Lake Victoria. Great for afternoon tea of taking lunch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://buhooro.netlify.app/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Sat, 11 Jan 2025 17:10:26 +0100</pubDate>
-      <guid>http://buhooro.netlify.app/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;div class=&#34;row my-5&#34;&gt;&#xA;    &lt;div class=&#34;col-lg-10&#34;&gt;&#xA;        &lt;form name=&#34;contact&#34; action=&#34;./success&#34; method=&#34;POST&#34; netlify-honeypot=&#34;title&#34; data-netlify=&#34;true&#34;&gt;&#xA;        &lt;div class=&#34;visually-hidden&#34;&gt;&#xA;            &lt;label&gt;Title: &lt;input name=&#34;title&#34;&gt;&lt;/label&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;name&#34; class=&#34;form-label&#34;&gt;Name (first name, last name):&lt;/label&gt;&#xA;            &lt;input type=&#34;text&#34; class=&#34;form-control&#34; name=&#34;name&#34; id=&#34;name&#34; required&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;email&#34; class=&#34;form-label&#34;&gt;Your email address:&lt;/label&gt;&#xA;            &lt;input type=&#34;email&#34; class=&#34;form-control&#34; name=&#34;email&#34; id=&#34;email&#34; aria-describedby=&#34;emailHelp&#34; required&gt;&#xA;            &lt;div id=&#34;emailHelp&#34; class=&#34;form-text&#34;&gt;I will never share your email with anyone else.&lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;enq_text&#34; class=&#34;form-label&#34;&gt;What would you like me to help you with?&lt;/label&gt;&#xA;            &lt;textarea class=&#34;form-control&#34; name=&#34;enq_text&#34; id=&#34;enq_text&#34; rows=&#34;3&#34; required&gt;&lt;/textarea&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;button type=&#34;submit&#34; class=&#34;btn btn-primary&#34;&gt;Submit&lt;/button&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;/form&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Events</title>
-      <link>http://buhooro.netlify.app/events/</link>
+      <link>http://localhost:1313/events/</link>
       <pubDate>Mon, 06 Jan 2025 17:10:26 +0100</pubDate>
-      <guid>http://buhooro.netlify.app/events/</guid>
+      <guid>http://localhost:1313/events/</guid>
       <description>&lt;p&gt;The retreat is popular for many types of events, such as birthday and wedding parties, or any type of celebration.&lt;/p&gt;&#xA;&lt;p&gt;And it&amp;rsquo;s perfect for photography, such as portraiture of weddings.&lt;/p&gt;&#xA;&lt;h2 id=&#34;needs-a-photo-of-an-eventparty&#34;&gt;needs a photo of an event/party&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Videography</title>
-      <link>http://buhooro.netlify.app/video/</link>
+      <link>http://localhost:1313/video/</link>
       <pubDate>Mon, 06 Jan 2025 17:10:26 +0100</pubDate>
-      <guid>http://buhooro.netlify.app/video/</guid>
+      <guid>http://localhost:1313/video/</guid>
       <description>&lt;p&gt;Our beautiful location is proving popular with music and video companies, and many have been filmed both in the grounds and at the house.&lt;/p&gt;&#xA;&lt;p&gt;See this video by Uganda star Azawi the video shot 2023, shows exterior and interiors of the house and the tree swing.&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/t9qOVGJ4_9Y?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;List of costs on application &amp;raquo; link to contact page or form, or phone number&lt;/p&gt;</description>
     </item>
     <item>
       <title>Book</title>
-      <link>http://buhooro.netlify.app/book/</link>
+      <link>http://localhost:1313/book/</link>
       <pubDate>Mon, 06 Jan 2025 17:10:26 +0100</pubDate>
-      <guid>http://buhooro.netlify.app/book/</guid>
+      <guid>http://localhost:1313/book/</guid>
       <description>&lt;div class=&#34;row my-5&#34;&gt;&#xA;    &lt;div class=&#34;col-lg-10&#34;&gt;&#xA;        &lt;form name=&#34;contact&#34; action=&#34;./success&#34; method=&#34;POST&#34; netlify-honeypot=&#34;title&#34; data-netlify=&#34;true&#34;&gt;&#xA;        &lt;div class=&#34;visually-hidden&#34;&gt;&#xA;            &lt;label&gt;Title: &lt;input name=&#34;title&#34;&gt;&lt;/label&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;name&#34; class=&#34;form-label&#34;&gt;Name (first name, last name):&lt;/label&gt;&#xA;            &lt;input type=&#34;text&#34; class=&#34;form-control&#34; name=&#34;name&#34; id=&#34;name&#34; required&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;email&#34; class=&#34;form-label&#34;&gt;Your email address:&lt;/label&gt;&#xA;            &lt;input type=&#34;email&#34; class=&#34;form-control&#34; name=&#34;email&#34; id=&#34;email&#34; aria-describedby=&#34;emailHelp&#34; required&gt;&#xA;            &lt;div id=&#34;emailHelp&#34; class=&#34;form-text&#34;&gt;Note: we will never share your email with anyone else.&lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;enq_text&#34; class=&#34;form-label&#34;&gt;Give details of your enquiry; booking a stay, or event, or videography?&lt;/label&gt;&#xA;            &lt;textarea class=&#34;form-control&#34; name=&#34;enq_text&#34; id=&#34;enq_text&#34; rows=&#34;3&#34; required&gt;&lt;/textarea&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;button type=&#34;submit&#34; class=&#34;btn btn-primary&#34;&gt;Submit&lt;/button&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;/form&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Success</title>
-      <link>http://buhooro.netlify.app/success/</link>
+      <link>http://localhost:1313/success/</link>
       <pubDate>Sat, 11 Jan 2025 12:36:10 +0000</pubDate>
-      <guid>http://buhooro.netlify.app/success/</guid>
+      <guid>http://localhost:1313/success/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;your-enquiry-was-sent-successfully-thank-you&#34;&gt;Your enquiry was sent successfully. Thank you.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/housefrombeach.jpg&#34; alt=&#34;Thank you image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Visit</title>
-      <link>http://buhooro.netlify.app/visit/</link>
+      <link>http://localhost:1313/visit/</link>
       <pubDate>Mon, 06 Jan 2025 17:10:26 +0100</pubDate>
-      <guid>http://buhooro.netlify.app/visit/</guid>
+      <guid>http://localhost:1313/visit/</guid>
       <description>&lt;h3 id=&#34;make-buhooro-your-base-camp-to-explore-uganda&#34;&gt;Make Buhooro your base camp to explore Uganda&lt;/h3&gt;&#xA;&lt;p&gt;Both Entebbe and Kampala are a short drive from Buhooro. The Express Highway can take you all the way to Munyonyo and Ggaba in South Kampala.&lt;/p&gt;&#xA;&lt;p&gt;Kampala has a buzzing nightlife and many bars and restaurants.&lt;/p&gt;&#xA;&lt;p&gt;Entebbe has beautiful lakeside beach resorts and historic buildings as well as the Botanical Gardens which also hosts a very varied wildlife.&lt;/p&gt;&#xA;&lt;p&gt;From Kampala, you can travel out of the capital to Jinja, and to Soroti in the north, as well as Mbarara and Kisoro in the westerly direction. Coaches as well as minibuses - called Mutatus – ply these routes daily.&lt;/p&gt;</description>
     </item>
   </channel>
