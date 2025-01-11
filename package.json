@@ -13,9 +13,9 @@
   "author": "Michael E Brooker",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "hugo-cli": "^0.14.0"
   },
-  "devDependencies": {},
   "keywords": [
     "hugo"
   ]
