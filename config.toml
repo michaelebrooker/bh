@@ -1,11 +1,12 @@
 baseURL = 'http://buhooro.netlify.app/'
 languageCode = 'en-us'
-title = 'Buhooro Wellness Retreat'
+title = 'Buhooro Wellness, Retreat Wakiso, nr Entebbe, Uganda'
 theme = "bh"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Buhooro Wellness Retreat {year}."
+copyright = "Buhooro Wellness Retreat, Wakiso, Uganda {year}."
+sectionPagesMenu = 'main'
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
@@ -18,38 +19,7 @@ copyright = "Buhooro Wellness Retreat {year}."
     source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
     target = "assets/js/bootstrap.bundle.min.js"
 
-
 [params]
   pre = "<h3>Active"
   post = "</h3>"
   
-  [menu]
-    [[menu.main]]
-    identifier = "visit"
-    name = "Visit"
-    url = "/visit/"
-    weight = 20
-
-    [[menu.main]]
-    identifier = "stay"
-    name = "Stay"
-    url = "/stay/"
-    weight = 30
-
-    [[menu.main]]
-    identifier = "wildlife"
-    name = "Wildlife"
-    url = "/wildlife/"
-    weight = 40
-
-    [[menu.main]]
-    identifier = "video"
-    name = "Videography"
-    url = "/video/"
-    weight = 50
-
-    [[menu.main]]
-    identifier = "gallery"
-    name = "Gallery"
-    url = "/gallery/"
-    weight = 60

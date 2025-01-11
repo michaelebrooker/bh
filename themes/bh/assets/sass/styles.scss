@@ -44,42 +44,39 @@ body {
 }
 
 h1 {
-  font-family: "Gill Sans", Helvetic, sans-serif;
-
+  font-family: 'Titillium Web', sans-serif;
   font-style: normal;
   font-weight: normal;
   color: $hddcolor; 
 }
 
 h2 {
-  font-family: "Gill Sans", Helvetica, sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-style: normal;
   font-weight: normal;
   color:$hdcolor; }
 
 h3 {
-  font-family: "Gill Sans", Helvetica, sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-style: normal;
   font-weight: normal;
   color:$hdcolor; }
 
   h4 {
-    font-family: "Gill Sans", Helvetica, sans-serif;
+  font-family: 'Titillium Web', sans-serif;
     font-style: normal;
     font-weight: normal;
     color:$hdcolor; 
   }
 // splash image
 .bigBrandDark {
-  font-family: "Gill Sans", Helvetica, sans-serif;
-  font-family: "Gill Sans", sans-serif;
-  font-weight: 600;
+  
+  font-family: 'Pacifico', Cursive;
   color: $logo-green;
 }
 
 .bigBrandLight {
   font-family: 'Pacifico', cursive;
-  font-size: 3.20em;
   color: $flag-blue;
 }
 

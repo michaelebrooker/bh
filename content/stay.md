@@ -1,6 +1,58 @@
 ---
 title: "Stay"
-date: 2023-05-22T17:06:06+01:00
+date: 2025-01-06T17:10:26+01:00
 draft: true
+type: page
+menu: main
+weight: 20
+description: 
+slug:
+keywords:
+author: 
+tags: 
+summary:
+image:
+image-alt:
+intro:
 ---
+
+## Your stay at Buhooro
+
+There are five staff permanently on site, and **Alfred** our guard keeps the place secure, with **Nama** running the house and supervising guests. All our staff and friendly and welcoming. 
+
+{{< responsive-image img="/images/living-area.jpg/" text="The open plan living area." >}}
+
+The main part of the bungalow is open plan with kitchen-dining area and lounge combined, and the French windows look out over **Lake Victoria**. You can sit and take tea with the daily on-shore breeze cooling either in the lounge or on the verandah. 
+
+{{< responsive-image img="/images/verandah-1.jpg/" text="The verandah looks out on to the Lake." >}}
+
+The verandah looks out over the beach and Lake Victoria, andis in front of the living area and two of the bedrooms have French windows with views of the Lake. 
+
+{{< responsive-image img="/images/masterbedroom.jpg/" text="The lounge and dining area and kitchen." >}}
+
+
+There are three bedrooms: the master bedroom - **above** - has an en-suite shower and toilet and French windows looking out to the Lake, the other two bedrooms have a shared shower and toilet facilities. Every bedroom has a modern double bed. At night you can here the waves lapping on the shore lulling you to sleep.
+
+{{< responsive-image img="/images/bedroom2.jpg/" text="Bedroom two with double bed and shared facilities with French windows lookign out to the Lake." >}}
+
+{{< responsive-image img="/images/bedroom2b.jpg/" text="Bedroom two with double bed and shared facilities." >}}
+
+**Above: bedroom two** has the use of shared shower and toilet and a French window looking to the lake and verandah. 
+
+
+{{< responsive-image img="/images/bedroom3a.jpg/" text="Bedroom three with double bed and shared facilities." >}}
+
+**Above: bedroom three** has a double bed and shared shower and toilet. 
+
+Otherwise, facilities are fairly simple, as there is no television, but good connectivity via mobile data, allows us to keep connected worldwide. 
+
+
+{{< responsive-image img="/images/eggs.jpg/" text="Fresh eggs from our chickens." >}}
+
+We have fresh eggs from our own chickens, and the little fishing village is a short walk, and has small stalls selling vegetables and fruit, as well as fish. The proximity for the fishing village means that freshly-caught fish can be bought. 
+
+{{< responsive-image img="/images/pusska.jpg/" text="Pusska, our tireless worker keeping and eye out for any pests." >}}
+
+Pusska is friendly to all and too spoiled and well-fed to bother with catching her own lunch. 
+
 

@@ -8,7 +8,7 @@ description:
 menu:
 slug:
 keywords:
-author: 
+author: Michael E Brooker 
 tags: 
 summary:
 image:
