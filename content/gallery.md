@@ -28,15 +28,17 @@ intro:
 
 {{< responsive-image img="/images/verandah_evening.jpg/" text="The Verandah which looks out of Lake Victoria" >}}
 
-**Above and below:** The Verandah with spectacular views of Lake Victoria. Great for afternoon tea of taking lunch.
+**Above and below:** The Verandah with spectacular views of Lake Victoria. Great for afternoon tea or taking lunch.
 
 {{< responsive-image img="/images/verandah-2.jpg/" text="The Verandah which looks out of Lake Victoria" >}}
 
 {{< responsive-image img="/images/garden-seats.jpg/" text="The garden seating area catches the evening sun." >}}
 
+**Above:** The kitchen patio catches the evening sun.
+
 {{< responsive-image img="/images/birdlife.jpg/" text="Buhooro is blessed with an abundance of all types of wildlife, and especially birds." >}}
 
-**Above and below:** Many species of East Africans are frequent visitors including the iconic Crested Crane, a spectacular bird which is on the Ugandan flag. 
+**Above and below:** Many species of East Africans birds are frequent visitors including the iconic Crested Crane, a spectacular bird which is on the Ugandan flag. 
 
 {{< responsive-image img="/images/birdlife2.jpg/" text="The sun rises at about 6:30AM over Lake Victoria" >}}
 

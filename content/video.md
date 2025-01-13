@@ -16,12 +16,11 @@ image-alt:
 intro:
 ---
 
-Our beautiful location is proving popular with music and video companies, and many have been filmed both in the grounds and at the house.
+Our beautiful location is great for videography. 
 
-See this video by Uganda star Azawi the video shot 2023, shows exterior and interiors of the house and the tree swing.
+Below: video by Ugandan star Azawi. Shows exterior and interiors of the house and the tree swing over-looking the Lake.
+
+[Get in touch with us](/enquire) if you are interested in our location for your project. 
 
 {{< youtube t9qOVGJ4_9Y >}}
 
-List of costs on application >> link to contact page or form, or phone number
-
-Youtube of video made at Buhooro

@@ -19,5 +19,4 @@ intro:
 
 ## Your enquiry was sent successfully. Thank you. 
 
-![Thank you image](/images/housefrombeach.jpg)
-
+{{< responsive-image img="/images/housefrombeach.jpg/" text="View of the house from the beach" >}}

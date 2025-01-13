@@ -21,4 +21,3 @@ The retreat is popular for many types of events, such as birthday and wedding pa
 
 And it's perfect for photography, such as portraiture of weddings. 
 
-## needs a photo of an event/party
