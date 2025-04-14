@@ -18,7 +18,7 @@ intro:
 
 ## Your stay at Buhooro
 
-There are five staff permanently on site, and **Alfred** our guard keeps the place secure, with **Nama** running the house and supervising guests. All our staff are friendly and welcoming. 
+There are five staff permanently on site, with a guard taking care of security, and our excellent house keeper running the house and supervising guests. All our staff are friendly and welcoming. 
 
 {{< responsive-image img="/images/living-area.jpg/" text="The open plan living area." >}}
 
