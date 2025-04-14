@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 date: 2025-01-10T10:17:05Z
-draft: true
+draft: 
 type: page
 menu: main
 weight: 30

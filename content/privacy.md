@@ -1,7 +1,7 @@
 ---
 title: "Privacy"
 date: 2025-01-13T10:06:13Z
-draft: true
+draft: 
 type: page
 weight: 400
 description: 

@@ -1,7 +1,7 @@
 ---
 title: "Events"
 date: 2025-01-06T17:10:26+01:00
-draft: true
+draft: 
 menu: main 
 type: page
 weight: 40

@@ -1,7 +1,7 @@
 ---
 title: "Stay"
 date: 2025-01-06T17:10:26+01:00
-draft: true
+draft: 
 type: page
 menu: main
 weight: 20
