@@ -1,2 +1,0 @@
-origin	https://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@github.com/michaelebrooker/bh (fetch)
-origin	https://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@github.com/michaelebrooker/bh (push)

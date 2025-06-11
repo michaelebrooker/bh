@@ -20,6 +20,8 @@ $RECYCLE.BIN/
 
 # directory for resources only used locally, such as artwork or documentation
 /public
+/node_modules
+/resources
 /document
 /doc
 /documentation
