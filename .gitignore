@@ -19,6 +19,10 @@ $RECYCLE.BIN/
 *content
 
 # directory for resources only used locally, such as artwork or documentation
+/public
+/document
+/doc
+/documentation
 /utility
 /raw_images
 /old_stuff
